@@ -6,7 +6,7 @@ The goal of this repo is to **show the final result**, not the internal implemen
 
 ## What you see here
 
-* **Full worksheet HTML**
+* **Full worksheet HTML** 
   A complete version with exercises and solutions.
 
 * **Cards HTML**
@@ -36,7 +36,7 @@ The generator can be used to create:
 
 ### High School – 5th Year (Derivatives)
 
-- **Full worksheet**  
+- **Full worksheet** *(access the solution using the password `sltn$`)* 
   https://iosephj.github.io/make-worksheets-public/example1_full.html
 
 - **Cards version**  
@@ -44,7 +44,7 @@ The generator can be used to create:
 
 ### High School – 1st Year (Area and Perimeter)
 
-- **Full worksheet**  
+- **Full worksheet** *(access the solution using the password `sltn$`)*
   https://iosephj.github.io/make-worksheets-public/example2_full.html
 
 - **Cards version**  
